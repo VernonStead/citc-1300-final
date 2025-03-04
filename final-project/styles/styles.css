@@ -15,7 +15,6 @@ ul {
     font-size: 20px;
     color: red;
     list-style-type: none;
-    padding: 10px color blue;
     margin: 2px;
     
 
@@ -174,7 +173,7 @@ main {
     }
     img {
         width: 60%;
-        image-orientation: from-image;
+       image-orientation: from-image;
     }
     
     header h1 {
